@@ -1,0 +1,7 @@
+{
+    "name": "sergu/testproject",
+    "description": "a test file",
+    "require": {
+        "houdunwang/hdphp": "*"
+    }
+}
